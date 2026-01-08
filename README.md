@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://Academic-Codex.github.io/SMA0111-Funcoes-de-Variaveis-Complexas">
-    <img src=".github/readme/hero.svg?v=2026-01-08T00:15:04.662094Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2026-01-08T00:48:52.119606Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
