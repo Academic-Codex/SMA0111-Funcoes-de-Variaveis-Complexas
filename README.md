@@ -3,8 +3,8 @@
 </p> -->
 
 <p align="center">
-  <a href="https://Academic-Codex.github.io/SMA0111-Funcoes-de-Variaveis-Complexas">
-    <img src=".github/readme/hero.svg?v=2026-01-08T01:40:58.161273Z" width="100%" alt="Access the course website" />
+  <a href="https://academic-codex.github.io/SMA0111-Funcoes-de-Variaveis-Complexas?utm_source=SMA0111-Funcoes-de-Variaveis-Complexas&utm_medium=readme">
+    <img src=".github/readme/hero.svg?v=2026-02-03T01:41:09.225858Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
